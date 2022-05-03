@@ -6,6 +6,13 @@ A Simple Judger Written in Python.
 ```
 python hellojudger.py 测试点文件夹 测试程序EXE [时限，单位为秒，默认为1]
 ```
+依赖python库：`prettytable`、`colorama`、`tqdm`。可以运行这个来安装：
+
+```
+pip install prettytable
+pip install colorama
+pip install tqdm
+```
 
 当前 `hellojudger.py`：
 
